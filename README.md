@@ -1,4 +1,4 @@
-# Link to page: https://melalfaro.github.io/monsters-rolodex/
+### Link to page: https://melalfaro.github.io/monsters-rolodex/
 
 # Getting Started with Create React App
 
